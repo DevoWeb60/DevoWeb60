@@ -2,7 +2,7 @@
 
 #### 👷 Actuellement sur 
 
-- [DevoWeb60/vue-commerce](https://github.com/DevoWeb60/vue-commerce) - ****
+- [DevoWeb60/vue-commerce](https://github.com/DevoWeb60/vue-commerce) - **Projet exercice à VueJS**
 
 #### 🌱 Projet récent
 
