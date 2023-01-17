@@ -2,17 +2,17 @@
 
 #### 👷 Actuellement sur 
 {{range recentRepos 1}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) - **{{.Description}}**
 {{- end}}
 
 #### 🌱 Projet récent
 {{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - **{{.Repo.Description}}** *({{humanize .OccurredAt}})*
 {{- end}}
 
 #### ⭐ Projet terminée
 {{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
 #### 📫 Me contacter
