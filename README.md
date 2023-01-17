@@ -24,5 +24,5 @@
 #### 📫 Me contacter
 
 - LinkedIn: https://www.linkedin.com/in/devoweb/
-- Fediverse: https://devoweb.fr
+- Site web: https://devoweb.fr
 - Email: contact@devoweb.fr
