@@ -2,7 +2,7 @@
 
 #### 👷 Actuellement sur 
 
-- [DevoWeb60/dymavue](https://github.com/DevoWeb60/dymavue) - **Apprentissage Vue JS**
+- [DevoWeb60/vue-commerce](https://github.com/DevoWeb60/vue-commerce) - ****
 
 #### 🌱 Projet récent
 
