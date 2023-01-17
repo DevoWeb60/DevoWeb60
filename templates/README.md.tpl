@@ -1,7 +1,10 @@
 #### 👷 Ce que je fais actuellement
-{{range recentContributions 2}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+{{range recentReleases 5}}
+Name: {{.Name}}
+Git Tag: {{.LastRelease.TagName}}
+URL: {{.LastRelease.URL}}
+Published: {{humanize .LastRelease.PublishedAt}}
+{{end}}
 
 #### 🌱 Mes derniers projets
 {{range recentRepos 5}}
