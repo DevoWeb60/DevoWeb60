@@ -6,13 +6,13 @@
 {{- end}}
 
 #### 🌱 Projet récent
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - **{{.Repo.Description}}** *({{humanize .OccurredAt}})*
 {{- end}}
 
 #### ⭐ Projet terminée
 {{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - **{{.Repo.Description}}**
 {{- end}}
 
 #### 📫 Me contacter
