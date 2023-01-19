@@ -2,11 +2,11 @@
 
 #### 👷 Actuellement sur 
 
-- [DevoWeb60/wp-theme](https://github.com/DevoWeb60/wp-theme) - **Grafikart - Créer un theme Wordpress**
+- [DevoWeb60/wp-theme](https://github.com/DevoWeb60/wp-theme) - **Apprentissage Wordpress**
 
 #### 🌱 Projet récent
 
-- [DevoWeb60/wp-theme](https://github.com/DevoWeb60/wp-theme) - **Grafikart - Créer un theme Wordpress** *(today)*
+- [DevoWeb60/wp-theme](https://github.com/DevoWeb60/wp-theme) - **Apprentissage Wordpress** *(today)*
 - [DevoWeb60/dymavue](https://github.com/DevoWeb60/dymavue) - **Apprentissage Vue JS** *(today)*
 - [DevoWeb60/vue-commerce](https://github.com/DevoWeb60/vue-commerce) - **Projet exercice à VueJS** *(1 day ago)*
 - [DevoWeb60/adonis-app](https://github.com/DevoWeb60/adonis-app) - **Apprentissage Adonis** *(4 weeks ago)*
