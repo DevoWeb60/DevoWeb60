@@ -6,7 +6,7 @@
 
 #### 🌱 Projet récent
 
-- [DevoWeb60/devotheme](https://github.com/DevoWeb60/devotheme) - **Apprentissage Wordpress - Theme** *(2 weeks ago)*
+- [DevoWeb60/devotheme](https://github.com/DevoWeb60/devotheme) - **Apprentissage Wordpress - Theme** *(3 weeks ago)*
 - [DevoWeb60/dymavue](https://github.com/DevoWeb60/dymavue) - **Apprentissage Vue JS** *(3 weeks ago)*
 - [DevoWeb60/vue-commerce](https://github.com/DevoWeb60/vue-commerce) - **Projet exercice à VueJS** *(3 weeks ago)*
 - [DevoWeb60/adonis-app](https://github.com/DevoWeb60/adonis-app) - **Apprentissage Adonis** *(1 month ago)*
