@@ -6,7 +6,7 @@
 
 #### 🌱 Projet récent
 
-- [DevoWeb60/agencia](https://github.com/DevoWeb60/agencia) - **** *(today)*
+- [DevoWeb60/agencia](https://github.com/DevoWeb60/agencia) - **Projet de thème Wordpress - Grafikart Premium** *(today)*
 - [DevoWeb60/agencia-plugin](https://github.com/DevoWeb60/agencia-plugin) - **Plugin wordpress en lien avec le repo Agencia** *(today)*
 - [DevoWeb60/devotheme](https://github.com/DevoWeb60/devotheme) - **Apprentissage Wordpress - Theme** *(1 month ago)*
 - [DevoWeb60/dymavue](https://github.com/DevoWeb60/dymavue) - **Apprentissage Vue JS** *(1 month ago)*
