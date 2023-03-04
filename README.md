@@ -2,7 +2,7 @@
 
 #### 👷 Actuellement sur 
 
-- [DevoWeb60/agencia-plugin](https://github.com/DevoWeb60/agencia-plugin) - **Plugin wordpress en liant avec le repo Agencia**
+- [DevoWeb60/agencia-plugin](https://github.com/DevoWeb60/agencia-plugin) - **Plugin wordpress en lien avec le repo Agencia**
 
 #### 🌱 Projet récent
 
