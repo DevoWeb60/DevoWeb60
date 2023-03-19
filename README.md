@@ -10,7 +10,7 @@
 - [DevoWeb60/agencia-plugin](https://github.com/DevoWeb60/agencia-plugin) - **Plugin wordpress en lien avec le repo Agencia** *(2 weeks ago)*
 - [DevoWeb60/devotheme](https://github.com/DevoWeb60/devotheme) - **Apprentissage Wordpress - Theme** *(1 month ago)*
 - [DevoWeb60/dymavue](https://github.com/DevoWeb60/dymavue) - **Apprentissage Vue JS** *(1 month ago)*
-- [DevoWeb60/vue-commerce](https://github.com/DevoWeb60/vue-commerce) - **Projet exercice à VueJS** *(1 month ago)*
+- [DevoWeb60/vue-commerce](https://github.com/DevoWeb60/vue-commerce) - **Projet exercice à VueJS** *(2 months ago)*
 
 #### ⭐ Projet terminée
 
