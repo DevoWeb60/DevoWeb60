@@ -9,7 +9,7 @@
 - [DevoWeb60/three-js-react](https://github.com/DevoWeb60/three-js-react) - **** *(today)*
 - [DevoWeb60/agencia-plugin](https://github.com/DevoWeb60/agencia-plugin) - **Plugin wordpress en lien avec le repo Agencia** *(3 months ago)*
 - [DevoWeb60/agencia](https://github.com/DevoWeb60/agencia) - **Projet de thème Wordpress - Grafikart Premium** *(3 months ago)*
-- [DevoWeb60/devotheme](https://github.com/DevoWeb60/devotheme) - **Apprentissage Wordpress - Theme** *(4 months ago)*
+- [DevoWeb60/devotheme](https://github.com/DevoWeb60/devotheme) - **Apprentissage Wordpress - Theme** *(5 months ago)*
 - [DevoWeb60/dymavue](https://github.com/DevoWeb60/dymavue) - **Apprentissage Vue JS** *(5 months ago)*
 
 #### ⭐ Projet terminée
