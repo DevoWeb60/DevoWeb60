@@ -8,7 +8,7 @@
 
 - [DevoWeb60/agencia](https://github.com/DevoWeb60/agencia) - **Projet de thème Wordpress - Grafikart Premium** *(9 months ago)*
 - [DevoWeb60/agencia-plugin](https://github.com/DevoWeb60/agencia-plugin) - **Plugin wordpress en lien avec le repo Agencia** *(9 months ago)*
-- [DevoWeb60/devotheme](https://github.com/DevoWeb60/devotheme) - **Apprentissage Wordpress - Theme** *(10 months ago)*
+- [DevoWeb60/devotheme](https://github.com/DevoWeb60/devotheme) - **Apprentissage Wordpress - Theme** *(11 months ago)*
 - [DevoWeb60/dymavue](https://github.com/DevoWeb60/dymavue) - **Apprentissage Vue JS** *(11 months ago)*
 - [DevoWeb60/vue-commerce](https://github.com/DevoWeb60/vue-commerce) - **Projet exercice à VueJS** *(11 months ago)*
 
