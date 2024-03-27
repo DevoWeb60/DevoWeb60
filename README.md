@@ -6,7 +6,7 @@
 
 #### 🌱 Projet récent
 
-- [DevoWeb60/klope](https://github.com/DevoWeb60/klope) - **** *(today)*
+- [DevoWeb60/klope](https://github.com/DevoWeb60/klope) - **** *(1 day ago)*
 
 #### ⭐ Projet terminée
 
