@@ -2,11 +2,11 @@
 
 #### 👷 Actuellement sur 
 
-- [DevoWeb60/klope](https://github.com/DevoWeb60/klope) - ****
+- [DevoWeb60/klope](https://github.com/DevoWeb60/klope) - **Calcul des quantités pour les e-liquide DIY **
 
 #### 🌱 Projet récent
 
-- [DevoWeb60/klope](https://github.com/DevoWeb60/klope) - **** *(2 months ago)*
+- [DevoWeb60/klope](https://github.com/DevoWeb60/klope) - **Calcul des quantités pour les e-liquide DIY ** *(2 months ago)*
 
 #### ⭐ Projet terminée
 
