@@ -6,7 +6,7 @@
 
 #### 🌱 Projet récent
 
-- [OCMentor-Projects/P8-E1-SYMFONY](https://github.com/OCMentor-Projects/P8-E1-SYMFONY) - **VehiLoc** *(today)*
+- [OCMentor-Projects/P8-E1-SYMFONY](https://github.com/OCMentor-Projects/P8-E1-SYMFONY) - **VehiLoc** *(1 day ago)*
 - [DevoWeb60/klope](https://github.com/DevoWeb60/klope) - **Calcul des quantités pour les e-liquide DIY ** *(10 months ago)*
 
 #### ⭐ Projet terminée
