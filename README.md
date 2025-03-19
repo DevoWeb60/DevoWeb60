@@ -2,7 +2,7 @@
 
 #### 👷 Actuellement sur 
 
-- [DevoWeb60/klope](https://github.com/DevoWeb60/klope) - **Calcul des quantités pour les e-liquide DIY **
+- [DevoWeb60/wp-reveal-presentation](https://github.com/DevoWeb60/wp-reveal-presentation) - **Présentation développer avec React et Reveal JS pour une explication axé développeur autour de Wordpress**
 
 #### 🌱 Projet récent
 
