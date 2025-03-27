@@ -6,7 +6,7 @@
 
 #### 🌱 Projet récent
 
-- [DevoWeb60/wp-reveal-presentation](https://github.com/DevoWeb60/wp-reveal-presentation) - **Présentation développer avec React et Reveal JS pour une explication axé développeur autour de Wordpress** *(2 days ago)*
+- [DevoWeb60/wp-reveal-presentation](https://github.com/DevoWeb60/wp-reveal-presentation) - **Présentation développer avec React et Reveal JS pour une explication axé développeur autour de Wordpress** *(3 days ago)*
 - [OCMentor-Projects/P8-E1-SYMFONY](https://github.com/OCMentor-Projects/P8-E1-SYMFONY) - **VehiLoc** *(1 month ago)*
 - [DevoWeb60/klope](https://github.com/DevoWeb60/klope) - **Calcul des quantités pour les e-liquide DIY ** *(1 year ago)*
 
