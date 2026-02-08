@@ -7,7 +7,6 @@
 #### 🌱 Projet récent
 
 - [DevoWeb60/wp-reveal-presentation](https://github.com/DevoWeb60/wp-reveal-presentation) - **Présentation développer avec React et Reveal JS pour une explication axé développeur autour de Wordpress** *(10 months ago)*
-- [OCMentor-Projects/P8-E1-SYMFONY](https://github.com/OCMentor-Projects/P8-E1-SYMFONY) - **VehiLoc** *(1 year ago)*
 
 #### ⭐ Projet terminée
 
