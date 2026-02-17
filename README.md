@@ -6,7 +6,7 @@
 
 #### 🌱 Projet récent
 
-- [DevoWeb60/wp-reveal-presentation](https://github.com/DevoWeb60/wp-reveal-presentation) - **Présentation développer avec React et Reveal JS pour une explication axé développeur autour de Wordpress** *(10 months ago)*
+- [DevoWeb60/wp-reveal-presentation](https://github.com/DevoWeb60/wp-reveal-presentation) - **Présentation développer avec React et Reveal JS pour une explication axé développeur autour de Wordpress** *(11 months ago)*
 
 #### ⭐ Projet terminée
 
